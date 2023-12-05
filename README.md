@@ -6,7 +6,7 @@ This Python script is a web application designed to predict whether an individua
 ## Dataset
 
 - **Dataset Name**: Parkinson's Disease Prediction
-- **Data Source**: data upload ob git
+- **Data Source**: data upload on git
 
 ## Project Structure
 
