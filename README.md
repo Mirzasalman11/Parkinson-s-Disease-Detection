@@ -36,8 +36,7 @@ This Python script is a web application designed to predict whether an individua
 -Open a command prompt or terminal and navigate to the directory where the script is located.
 
 -Run the script using Streamlit:
-    ```bash
-     streamlit run main.py
+    `streamlit run main.py`
 
 -Access the web application in your browser and enter the voice-related features to get the prediction result.
 
